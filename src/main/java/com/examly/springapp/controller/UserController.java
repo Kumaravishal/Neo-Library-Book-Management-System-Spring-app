@@ -13,7 +13,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/users")
-@CrossOrigin(origins = "http://localhost:8081") // allow React frontend
+@CrossOrigin(origins = "https://neo-library-book-management-system.vercel.app") // allow React frontend
 public class UserController {
 
     private final UserService userService;

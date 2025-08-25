@@ -8,7 +8,7 @@ import com.examly.springapp.model.Book;
 import com.examly.springapp.service.BookService;
 import java.util.List;
 
-@CrossOrigin(origins = "http://localhost:8081")
+@CrossOrigin(origins = "https://neo-library-book-management-system.vercel.app")
 @RestController
 public class BookController {
 
