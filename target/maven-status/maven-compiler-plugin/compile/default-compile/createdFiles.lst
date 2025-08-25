@@ -1,0 +1,15 @@
+com\examly\springapp\exception\BadRequestException.class
+com\examly\springapp\SpringappApplication.class
+com\examly\springapp\repository\UserRepository.class
+com\examly\springapp\service\UserService.class
+com\examly\springapp\service\BookService.class
+com\examly\springapp\configuration\CorsConfiguration.class
+com\examly\springapp\configuration\CorsConfiguration$1.class
+com\examly\springapp\controller\UserController$LoginRequest.class
+com\examly\springapp\repository\BookRepo.class
+com\examly\springapp\exception\InvalidIsbnException.class
+com\examly\springapp\model\Book.class
+com\examly\springapp\controller\BookController.class
+com\examly\springapp\controller\UserController.class
+com\examly\springapp\exception\ResourceNotFoundException.class
+com\examly\springapp\model\User.class
